@@ -3,6 +3,10 @@
   ## Description
   As a business owner, I want to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business. This application will allow the business to add/view departments, roles, employees and update employee roles. This will be invoked with the command: npm start
 
+  ## DEMO Link
+
+  https://drive.google.com/file/d/1zYF3yE3IKYchT6Q3Au10VF8GakQzMIk0/view?usp=sharing
+
   ## Table of Contents
 
   - [Installation](#installation)
